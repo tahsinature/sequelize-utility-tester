@@ -1,0 +1,3 @@
+[submodule "src/lib/sequelize-utility"]
+	path = src/lib/sequelize-utility
+	url = https://github.com/tahsinature/sequelize-utility.git
