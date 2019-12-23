@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-utility-tester",
+  "version": "1.0.0",
+  "description": "repo for `sequelize-utility`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahsinature/sequelize-utility-tester.git"
+  },
+  "author": "Mohammad Tahsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahsinature/sequelize-utility-tester/issues"
+  },
+  "homepage": "https://github.com/tahsinature/sequelize-utility-tester#readme",
+  "dependencies": {
+    "sequelize-utility": "^1.0.11"
+  }
+}
